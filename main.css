@@ -93,6 +93,7 @@ h1 {
   width: 100%;
   border-radius: 0.2rem;
   cursor: pointer;
+  position: relative;
 }
 
 hr {
@@ -221,9 +222,9 @@ hr {
     column-gap: 1.15rem;
     row-gap: 0.5rem;
   }
-  .bar {
+  /* .bar {
     position: relative;
-  }
+  } */
   hr {
     margin-bottom: 1.8rem;
   }
